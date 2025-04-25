@@ -13,7 +13,7 @@ A GUI-based Hangman game developed in Java using the Swing framework. The game s
 
 ## How It Works
 
-1. On clicking **"Play"**, the game selects a random word from `nouns.txt`.
+1. On clicking **"New Game"**, the game selects a random word from `nouns.txt`.
 2. The user guesses the word one letter at a time using clickable buttons.
 3. The game ends when:
    - The player successfully guesses the word.
@@ -24,8 +24,8 @@ A GUI-based Hangman game developed in Java using the Swing framework. The game s
 
 - Java  
 - Swing (for GUI components)  
-- File I/O (`FileReader`, `BufferedReader`)  
-- Object-Oriented Programming (encapsulation, modular design)  
+- File I/O 
+- Object-Oriented Programming  
 
 ## Note
 
